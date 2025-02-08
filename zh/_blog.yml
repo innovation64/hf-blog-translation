@@ -2187,3 +2187,14 @@
     - on-device
     - smolvlm
     - community
+
+- local: open-deep-research
+  title: 开源深度研究-解放我们工作的搜索智能体
+  thumbnail: /blog/assets/open-deep-research/thumbnail.png
+  author: m-ric
+  date: Feb 4, 2025
+  tags:
+    - llms
+    - agents
+    - research
+    - smolagents
